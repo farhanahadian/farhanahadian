@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/4b/b0/4f/4bb04f3ec2de48d3f3e3c71c5cd816f4.jpg)
+![](https://i.pinimg.com/564x/0d/b6/25/0db625bcf10e238e069424aa21fe57a0.jpg)
 
 I'm all about growth, whether it's at a cutting-edge startup or a major player, as long as I'm constantly adding new skills to my arsenal, I'm in.
 
