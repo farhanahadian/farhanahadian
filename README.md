@@ -16,23 +16,23 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farhanahadian&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=farhanahadian&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=farhanahadian&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanahadian&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <br>
 <br>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=farhanahadian&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 <br>
 <br>
-<br>
+<br> -->
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=farhanahadian&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=farhanahadian&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
