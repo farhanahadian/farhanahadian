@@ -1,10 +1,10 @@
 ![](https://i.pinimg.com/originals/0d/b6/25/0db625bcf10e238e069424aa21fe57a0.jpg)
 
-<!-- I'm all about growth, whether it's at a cutting-edge startup or a major player, as long as I'm constantly adding new skills to my arsenal, I'm in. -->
+<!-- I'm all about growth, whether at a cutting-edge startup or a major player, as long as I'm constantly adding new skills to my arsenal, I'm in. -->
 <br>
 
 #  About Me
-💻 I’m currently working on https://forgex.tech/ <br>	📖 I’m currently learning React JS <br>📨 How to reach me: Hit me up on LinkedIn <br>💦 Fun fact: Always striving for a tranquil environment 
+📖 I’m currently learning React JS <br>📨 How to reach me: Hit me up on LinkedIn <br>💦 Fun fact: Always striving for a tranquil environment 
 <br>
 <br>
 <br>
